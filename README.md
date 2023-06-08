@@ -8,4 +8,6 @@
 2. _Name_ of the person who want to buy it
 3. _Phone_ number of the buyer
 4. _Prop_id_ it contain property id from properties table
-5
+5. _user_id_ it is auto field and it contain the user id who requested for the property.
+6. _author_  it is auto field contains the name of the property owner by default.
+![image](https://github.com/RaagLibr/Real-Estate-Portal-/assets/101311420/f264b2d9-0751-4327-a0d3-2a3f7979e330)
