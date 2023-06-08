@@ -1,6 +1,14 @@
 # Real-Estate-Portal-
-
 ## A real estate portal is an online medium where anyone can list properties for sale through their site's backend. 
+
+### Following ER-diagram show the relationship between entity
+
+
+![RSMS](https://github.com/RaagLibr/Real-Estate-Portal-/assets/101311420/4df3d8c8-5980-4277-b096-8c316e47375e)
+
+
+
+
 > To develope that portal i implement following table and database . In homeland databse
 > ### *User table* it  contain Id field, Username field, email field, password field, time field 
 >>1. _Id_ of authorized user
