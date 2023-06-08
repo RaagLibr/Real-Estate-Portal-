@@ -5,7 +5,7 @@
 >> User table it  contain Id field, Username field, email field, password field, time field 
 >>request table it contain the requeste property of user to buy it contain following fields
 1. _Id_ of requested property
-2. Name of the person who want to buy it
-3. Phone number of the buyer
-4. Prop_id it contain property id from properties table
+2. _Name_ of the person who want to buy it
+3. _Phone_ number of the buyer
+4. _Prop_id_ it contain property id from properties table
 5
