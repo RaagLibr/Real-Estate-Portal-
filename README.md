@@ -22,7 +22,7 @@
 
 
 
-> ### *related image * table , it contain the related image of that property to show the same propery are available or not
+> ### *related image* table , it contain the related image of that property to show the same propery are available or not
 
 >>1. _Id_ of requested property
 >>2. _image_ of the related property
@@ -31,7 +31,7 @@
 
 
 
-> ### * prop * table , it contain the related image of that property to show the same propery are available or not
+> ### *prop* table , it contain the related image of that property to show the same propery are available or not
 
 >>1. _Id_ is id of property
 >>2. _name_ is name of the  property
@@ -50,7 +50,7 @@
 >>15. _admin_name_ it conain admin name who has the access of those properties.
 ![image](https://github.com/RaagLibr/Real-Estate-Portal-/assets/101311420/49691ace-0baf-4e30-9729-c0563b2c9a4f)
 
-> ### * faves * table , it contain the favourite properties of users .
+> ### *faves* table , it contain the favourite properties of users .
 
 >>1. _Id_ is id of favourite property
 >>2. _proper_id_ is id of the  property
@@ -58,7 +58,7 @@
 ![image](https://github.com/RaagLibr/Real-Estate-Portal-/assets/101311420/13008564-883a-40a6-8a44-607d0d7025f6)
 
 
-> ### * categories * table , it contain the categories of that property.
+> ### *categories* table , it contain the categories of that property.
 
 >>1. _Id_ is id of category
 >>2. _name_ is name of the  category
@@ -66,7 +66,7 @@
 ![image](https://github.com/RaagLibr/Real-Estate-Portal-/assets/101311420/ccb7d0cf-9c46-4c89-8ac1-18bafa1c3c7f)
 
 
-> ### * admin * table , it contain the admin information
+> ### *admin* table , it contain the admin information
 
 >>1. _Id_ is id of admins
 >>2. _adminname_ is name of the  admin
