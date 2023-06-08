@@ -1,6 +1,17 @@
 # Real-Estate-Portal-
 ## A real estate portal is an online medium where anyone can list properties for sale through their site's backend. 
 
+### Following are the images of the website which created with help of bootstrap
+![image](https://github.com/RaagLibr/Real-Estate-Portal-/assets/101311420/6370f36a-6e31-4032-9985-5447022520b0)
+ ##  About page of the site
+ ![image](https://github.com/RaagLibr/Real-Estate-Portal-/assets/101311420/a37865ab-24fd-4e4a-9f80-85ca5e46bf63)
+## Contact form page of website
+![image](https://github.com/RaagLibr/Real-Estate-Portal-/assets/101311420/a5900e41-613e-4a2d-a4a4-2944b2752a1e)
+## Rquested property will visible in requeste property
+![image](https://github.com/RaagLibr/Real-Estate-Portal-/assets/101311420/412d67ef-e198-45b9-8ffd-3448b90d2b38)
+
+
+
 ### Following ER-diagram show the relationship between entity
 
 
