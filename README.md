@@ -23,7 +23,7 @@
 > To develope that portal i implement following table and database . In homeland databse
 > ### *User table* it  contain Id field, Username field, email field, password field, time field 
 >>1. _Id_ of authorized user
->>2. _User_name_ fo the user
+>>2. _User_name_ of the user
 >>3. _email_ email of the user
 >>4. _password_ it conatin using hash function
 
@@ -90,7 +90,7 @@
 >>1. _Id_ is id of admins
 >>2. _adminname_ is name of the  admin
 >>3. _email_ contain the email id of admin
->>4. _password_ it contain password of the password
+>>4. _password_ it contain password of the admin
 
 ![image](https://github.com/RaagLibr/Real-Estate-Portal-/assets/101311420/94f46990-f559-474e-92b3-5520a79e113b)
 
